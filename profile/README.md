@@ -1,29 +1,11 @@
-# 24358 Metallum Ultorum 🔥
+<div align="center">
 
-We are **Metallum Ultorum**, an FTC Robotics team based out of **Waukee, Iowa**. We are both the Metallum Ultorum team and the Waukee Northwest Robotics Club, driven by the mission to revolutionize STEM technology and make it accessible to learners of all ages.
+<img src="https://github.com/user-attachments/assets/388f9cdd-1ff1-4afb-a1d2-e84c5c48c0bd" width="423" height="340" alt="Ragnarok Logo" />
 
-## Our Mission 🌟  
-We strive to push the boundaries of robotics and empower people to explore, learn, and innovate within STEM fields. By competing in the **FIRST Tech Challenge (FTC)**, we gain hands-on experience in designing, programming, and problem-solving with cutting-edge technologies.
+<h3>We are <strong>Ragnarok</strong>, an FTC Robotics team based out of <strong>Waukee, Iowa</strong>.</h3>
+<p>We are both the Ragnarok team and the Waukee Northwest Robotics Club, driven by the mission to revolutionize STEM technology and make it accessible to learners of all ages.</p>
 
----
+<p>Learn more: <a href="https://ragnarokftc.com" target="_blank">ragnarokftc.com</a></p>
+<p>Contact Us: <a href="mailto:team@ragnarokftc.com">team@ragnarokftc.com</a></p>
 
-## Achievements 🏆  
-### ⭐️ 2nd Place - **2024 Pollock League Championship** Control (Programming) Award
-
----
-
-## Our Robots 🤖  
-Our organization develops multiple robots each season. Here’s a glimpse at our current projects:
-
-### 🔹 Outreach  
-Our **Outreach** robot is designed to engage with the community, showcasing the power of STEM while participating in events and demonstrations.
-
-### 🔹 IntoTheDeep (FTC 2024-25)  
-This season’s competition robot, **IntoTheDeep**, is optimized for the challenges of the FTC 2024-25 season. We keep our code open-source, so you can check it out & get inspired!
-
----
-
-## Get Involved 💡  
-Interested in following our journey or contributing to our projects? Check out our repositories or feel free to reach out.
-
-📧 Contact Us: **[roboticswaukee@gmail.com](mailto:roboticswaukee@gmail.com)**  
+</div>
